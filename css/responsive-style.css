@@ -1,0 +1,235 @@
+/*add and remove classes*/
+a.blue:hover {
+  border-bottom: 3px solid rgb(255, 208, 78);
+}
+/*
+.menu-is-visible {
+  top: 0;
+}
+
+.menu-is-not-visible {
+  top: -40px;
+}*/
+
+.show-mobile-menu {
+  height: 280px;
+}
+
+.hide-mobile-menu {
+  height: 0px;
+  overflow: hidden;
+}
+
+.show-icon-menu {
+  display: none;
+}
+
+.hide-icon-menu {
+  display: none;
+}
+
+.show-icon-close {
+  display: none;
+  /*order: 3px solid blue;
+  height: 22px;*/
+}
+
+.hide-icon-close {
+  display: none;
+}
+
+/*define mobile menu*/
+
+.mobile-menu-item:hover {
+  background-color: rgb(44, 44, 44);
+}
+/*
+.mobile-menu-item:first-child {
+  margin-top: 10px;
+}*/
+
+.mobile-menu-item:hover {
+  background-color: #835700;
+  text-decoration: none;
+}
+
+.mobile-menu-item {
+  display: block;
+  padding-left: 30px;
+  font-size: 16px;
+  color: white;
+  padding-bottom: 13px;
+  padding-top: 13px;
+  text-decoration: none;
+}
+
+#mobile-menu {
+  background-color: #c38303;
+
+  /*position: fixed;
+  overflow: hidden;
+  transition-property: height;
+  transition-duration: 0.5s;*/
+  /*border: 2px solid green;
+  display: display;*/
+  transition: height 0.5s;
+}
+
+.material-icons.material-icons-style {
+  color: white;
+  font-size: 30px;
+  float: right;
+  margin-top: -5.5px;
+}
+
+/*this what happens when screen width < 700 - CIRCLE*/
+@media only screen and (max-width: 720px) {
+  .circle {
+    display: none;
+  }
+
+  .main {
+    padding-top: 0px;
+  }
+
+  .padding-top-main {
+    padding-top: 40px;
+  }
+
+  .mobile-circle-wrapper {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #page #kontakt a {
+    line-height: 2;
+  }
+
+  a.menu-item {
+    display: none;
+  }
+
+  .show-icon-menu {
+    display: block;
+  }
+
+  .show-icon-close {
+    display: block;
+  }
+
+  #inside-desktop-menu {
+    width: auto;
+  }
+
+  #blog {
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  #page {
+    width: auto;
+  }
+
+  #text-in-page {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #mobile-web-under-construction {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  #text-in-page {
+    margin-right: 10px;
+    margin-left: 10px;
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #div-pata {
+    width: auto;
+  }
+
+  .iframe {
+    margin-inline: auto;
+    width: 350px;
+    height: 190px;
+    border: none;
+
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  #page {
+    text-align: left;
+  }
+
+  #obrazovka {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px !important;
+    margin-bottom: 90px !important;
+
+    -webkit-transform: rotate(270deg); /* Safari and Chrome */
+    -moz-transform: rotate(270deg); /* Firefox */
+    -ms-transform: rotate(270deg); /* IE 9 */
+    -o-transform: rotate(270deg); /* Opera */
+    transform: rotate(270deg);
+  }
+}
+
+.hide-circle {
+  display: none;
+}
+
+@media only screen and (max-width: 400px) {
+  p img.img-class {
+    width: 300px;
+    margin-top: 100px;
+    margin-inline: auto;
+    display: block;
+    margin-bottom: 200px;
+
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .iframe {
+    margin-inline: auto;
+    width: 280px;
+    height: 145px;
+    border: none;
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .iframe {
+    margin-inline: auto;
+    width: 220px;
+    height: 115px;
+    border: none;
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 260px) {
+  .iframe {
+    margin-inline: auto;
+    width: 180px;
+    height: 95px;
+    border: none;
+    display: block;
+  }
+}
