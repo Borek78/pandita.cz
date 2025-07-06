@@ -1,0 +1,507 @@
+ul li.li-bottom-margin {
+  margin-bottom: 7px;
+}
+
+.iframe {
+  margin-inline: auto;
+  width: 400px;
+  height: 225px;
+  border: none;
+
+  display: block;
+}
+
+div p span.permission-number {
+  font-weight: bold;
+  color: #b7542d;
+}
+
+p img.img-class {
+  width: 300px;
+  margin-top: 30px;
+  margin-inline: auto;
+  display: block;
+  margin-bottom: 70px;
+}
+
+.smile-emoji {
+  position: relative !important;
+  top: 2px !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#page .no-border-bottom a {
+  border-bottom: none;
+}
+
+.uk-flag {
+  width: 39px;
+  height: 13px;
+  order: 1px solid blue;
+  margin-bottom: -1px;
+}
+
+.discord {
+  color: rgb(117, 117, 117) !important;
+  margin-top: 9px;
+}
+
+.discord:hover {
+  color: black !important;
+}
+
+.financovani {
+  font-size: 14px;
+
+  margin-bottom: 5px;
+  margin-top: 0px;
+  color: rgb(190, 106, 73) d;
+}
+
+.transparentni-ucet {
+  font-weight: bold;
+
+  color: rgb(42, 42, 42);
+}
+
+h6 {
+  border-bottom: 1px solid black !important;
+  padding-bottom: 2px;
+  font-size: 16px !important;
+  text-align: left !important;
+  color: black !important;
+  display: inline-block;
+  font-weight: normal;
+  margin-bottom: 7px !important;
+}
+
+span.green-button {
+  color: white;
+  background-color: green;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  border-radius: 5px;
+}
+
+.licence-v-paticce {
+  font-size: 12px;
+  text-align: center;
+}
+
+.youtube:hover {
+  color: orangered !important;
+}
+
+.youtube {
+  color: rgb(255, 113, 61) !important;
+}
+
+.facebook:hover {
+  color: rgb(16, 16, 255) !important;
+  margin-bottom: 7px;
+}
+
+.facebook {
+  color: rgb(82, 82, 255) !important;
+  margin-bottom: 7px;
+}
+
+.odysee:hover {
+  color: rgb(255, 40, 201) !important;
+  margin-bottom: 7px;
+}
+
+.odysee {
+  color: rgb(250, 97, 235) !important;
+  margin-bottom: 7px;
+}
+
+.ion-icon {
+  font-size: 30px;
+}
+
+#page #kontakt a:hover {
+  border-bottom: 3px dashed orangered;
+}
+
+#page #kontakt a {
+  border: 0px;
+}
+
+.padding-top-main {
+  padding-top: 40px;
+}
+
+#breadcrumbs {
+  width: 560px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#breadcrumbs a {
+  color: black;
+  text-decoration: none;
+  color: #b7542d;
+}
+
+#breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+#text-in-page #stahnout-panditu:hover {
+  background-color: #b37800;
+  border: 2px dotted #b37800;
+
+  color: white;
+}
+
+#text-in-page #stahnout-panditu {
+  display: block;
+  border: 2px dotted #b7542d;
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 10px;
+  color: #b7542d;
+  font-weight: bold;
+}
+
+#text-in-page .a-button,
+#page #kontakt a.a-button {
+  display: block;
+  border: 2px dotted #b7542d;
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 10px;
+  color: #b7542d;
+  font-weight: bold;
+}
+
+#text-in-page .a-button:hover,
+#page #kontakt a.a-button:hover {
+  background-color: #b37800;
+  border: 2px dotted #b37800;
+
+  color: white;
+}
+
+.pdf:hover {
+  color: blue;
+  color: green;
+  transform: scale(1.3);
+}
+
+.pdf {
+  color: #b7542d;
+  transition: all 0.2s ease-in-out;
+  margin-top: 10px !important;
+}
+
+.bold-brick {
+  border-bottom: 1px solid grey;
+}
+
+.mobile-flag {
+  background-size: 24px 16px;
+  width: 24px;
+  height: 16px !important;
+  background-position: 30px 13px;
+  background-image: url(../assets/uk-flag.png);
+
+  background-repeat: no-repeat;
+}
+
+.flag:hover {
+  background-size: 24px 16px;
+  width: 24px;
+  height: 16px !important;
+  border-bottom: none !important;
+  margin-left: 19px !important;
+  margin-top: 13px;
+  margin-right: 7px !important;
+  background-image: url(../assets/uk-flag.png);
+  transition: width 0.5s, height 0.5s, background-size 0.5s, margin-left 0.5s,
+    margin-top 0.5s, margin-right 0.5s, background-image 0.5s;
+}
+
+.flag {
+  background-image: url(../assets/uk-flag-less-bright.png);
+  background-size: 18px 12px;
+  background-repeat: no-repeat;
+
+  width: 18px;
+  height: 12px !important;
+
+  margin-top: 15px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+
+  margin-left: 22px !important;
+  border-bottom: none !important;
+}
+
+a#podminky-uziti {
+  border-bottom: 1px dotted;
+  padding-bottom: 2px;
+  color: white;
+  text-decoration: none;
+}
+
+a#podminky-uziti:hover {
+  border-bottom: 2px dashed;
+  padding-bottom: 2px;
+  color: white;
+}
+
+#div-pata {
+  color: white;
+  width: 460px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 1.6;
+}
+
+experiment {
+  color: #b7542d;
+  font-size: 21px;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 0px;
+  border: 1px solid blue;
+  word-wrap: break-word;
+}
+
+/*page noise reduction*/
+.underline-noise-reduction {
+  border-bottom: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+/*page how to create subtitles*/
+.format {
+  display: inline-block;
+  background-color: rgb(235, 235, 235);
+  border: 1px solid grey;
+  height: 22px;
+  width: 140px;
+  padding-left: 3px;
+}
+
+#pomer-stran {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+  background-color: burlywood;
+  border-radius: 2px;
+}
+
+#obrazovka {
+  margin-left: auto;
+  margin-right: auto;
+  width: 240px;
+  height: 135px;
+  border: 2px solid #b7542d;
+  margin-bottom: 40px;
+  margin-top: 25px;
+  border-radius: 6px;
+}
+
+#titulky {
+  width: 68%;
+  height: 20px;
+  background-color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+  padding-bottom: 3px;
+  border-radius: 2px;
+}
+
+/*h1 - title of each page */
+h1 {
+  color: #b7542d;
+  font-size: 21px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 30px;
+  border: px solid blue;
+}
+
+/*page cc-email*/
+.underline {
+  border-bottom: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.highlighted-text-blue {
+  color: rgfded;
+  color: #0000bbb0;
+
+  font-weight: bold;
+}
+
+.highlighted-text-green {
+  color: green;
+  font-weight: bold;
+}
+
+/*h5 styles */
+h5 {
+  font-size: 16px;
+  color: #b7542d;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+/*hover link on the blog page*/
+#page div.no-link-underline h3 a:hover {
+  border-bottom: 3px dashed orange;
+}
+
+/*wrap some link if necessary*/
+div.do-not-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/*links on the blog page*/
+#page div.no-link-underline h3 a {
+  margin-bottom: 30px;
+
+  /* Fallback: Set a background color. */
+  color: #b7542d;
+
+  /* Create the gradient. */
+  background-image: linear-gradient(45deg, rgb(46, 46, 46), rgb(46, 46, 46));
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+/*remove the yellow pipali for this element and change link styles*/
+#page #blog h3 {
+  background-image: none;
+  padding-left: 0px;
+  font-family: arial, "Raleway", sans-serif;
+  text-transform: none;
+  font-size: 20px;
+  font-weight: 200;
+  color: grey;
+  margin-bottom: -20px;
+}
+
+/*used only once for A and B - maybe I will delete it */
+h4 {
+  color: #b7542d;
+  font-weight: bold;
+  border-bottom: none;
+  text-align: left;
+  font-size: 17;
+  display: block;
+}
+
+/*h2 - used for title of every page*/
+h2 {
+  color: #b7542d;
+  font-size: 21px;
+  display: block;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 0px;
+}
+
+/*this makes every quated text look different*/
+.citace {
+  background-color: #feffd2;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  border: 1px dotted #b7542d85;
+}
+
+div.finance-buttons {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page a.finance-cesky-tlacitko {
+  border-bottom: 3px solid green;
+  margin-right: 20px;
+  padding-bottom: 4px;
+}
+
+#page a.finance-cesky-tlacitko:hover {
+  border-bottom: 3px solid green;
+}
+
+#page a.finance-anglicky-tlacitko {
+  border-bottom: 0px;
+  padding-bottom: 4px;
+  margin-left: 25px;
+}
